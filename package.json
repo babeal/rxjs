@@ -1,0 +1,23 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "This repository contains examples, recipes and idiomatic approaches to problems in RxJs",
+  "main": "src\\client\\index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babeal/rxjs.git"
+  },
+  "keywords": [
+    "rxjx",
+    "examples"
+  ],
+  "author": "Brandt Beal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/babeal/rxjs/issues"
+  },
+  "homepage": "https://github.com/babeal/rxjs#readme"
+}
